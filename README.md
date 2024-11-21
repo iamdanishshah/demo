@@ -1,2 +1,3 @@
-# new projevt
-This projecy is created by local system
+# new project
+This project is created by local system
+created by Danish
